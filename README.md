@@ -13,10 +13,10 @@ Run 'npm start'.
 
 ## Features
 
-    *You can add, edit, delete any release.
-    *Create tasks under every release. The progress of each task will determine the overall progress.
-    *Every release displays the version name, status, Progress Bar, Start and Release Date, Description and Actions Button for editing, deleting or creating tasks.
-    *Any underlying task can be viewed by clicking on the version name for the specific release.
-    *Tasks can be dragged and dropped anywhere on the screen.
-    *Editing and Adding tasks will display a Modal. Editing any field will save the changes automatically. Modal can be closed by clicking on Save button.
-    *By default, giving release date will mark the status as 'Released'. Progress bar won't increment unless you create a task under the release or edit the release and provide a progress value.
+    * You can add, edit, delete any release.
+    * Create tasks under every release. The progress of each task will determine the overall progress.
+    * Every release displays the version name, status, Progress Bar, Start and Release Date, Description and Actions Button for editing, deleting or creating tasks.
+    * Any underlying task can be viewed by clicking on the version name for the specific release.
+    * Tasks can be dragged and dropped anywhere on the screen.
+    * Editing and Adding tasks will display a Modal. Editing any field will save the changes automatically. Modal can be closed by clicking on Save button.
+    * By default, giving release date will mark the status as 'Released'. Progress bar won't increment unless you create a task under the release or edit the release and provide a progress value.
